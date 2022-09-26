@@ -1,8 +1,8 @@
 import React from "react";
 import { Provider as StoreProvider } from "react-redux";
 
-import { Container, CssBaseline } from "@mui/material";
-import Places from "./Container";
+import { CssBaseline } from "@mui/material";
+import Places from "./container";
 
 import store from "./store";
 
